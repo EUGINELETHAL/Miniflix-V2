@@ -14,11 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-<<<<<<< HEAD
-  "/Miniflix/precache-manifest.d68921d86c0fe5e93c67d05f6ea91c72.js"
-=======
-  "/Miniflix/precache-manifest.4993888055039d7284ba686933bc2802.js"
->>>>>>> 1fcb19f2da42219e2559567d2bc65d2392ee7209
+  "/Miniflix-v2/precache-manifest.a6aacd58b18746ce2c1ef87ddd29460f.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -37,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Miniflix/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Miniflix-v2/index.html"), {
   
   blacklist: [/^\/_/,/\/[^\/?]+\.[^\/]+$/],
 });
