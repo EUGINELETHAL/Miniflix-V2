@@ -1,7 +1,7 @@
 {
   "name": "todo",
   "version": "0.1.0",
-  "homepage": "https://euginelethal.github.io/Miniflix-v2/"
+  "homepage": "https://euginelethal.github.io/Miniflix-v2/",
   "private": true,
   "dependencies": {
     "react": "^16.9.0",
