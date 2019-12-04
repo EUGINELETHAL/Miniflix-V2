@@ -1,18 +1,5 @@
 {
   "files": {
-<<<<<<< HEAD
-    "main.css": "/Miniflix/static/css/main.0832d7f9.chunk.css",
-    "main.js": "/Miniflix/static/js/main.d72e9e4c.chunk.js",
-    "main.js.map": "/Miniflix/static/js/main.d72e9e4c.chunk.js.map",
-    "runtime~main.js": "/Miniflix/static/js/runtime~main.70445c7f.js",
-    "runtime~main.js.map": "/Miniflix/static/js/runtime~main.70445c7f.js.map",
-    "static/js/2.d73da99e.chunk.js": "/Miniflix/static/js/2.d73da99e.chunk.js",
-    "static/js/2.d73da99e.chunk.js.map": "/Miniflix/static/js/2.d73da99e.chunk.js.map",
-    "index.html": "/Miniflix/index.html",
-    "precache-manifest.d68921d86c0fe5e93c67d05f6ea91c72.js": "/Miniflix/precache-manifest.d68921d86c0fe5e93c67d05f6ea91c72.js",
-    "service-worker.js": "/Miniflix/service-worker.js",
-    "static/css/main.0832d7f9.chunk.css.map": "/Miniflix/static/css/main.0832d7f9.chunk.css.map"
-=======
     "main.css": "/Miniflix/static/css/main.99568568.chunk.css",
     "main.js": "/Miniflix/static/js/main.3de59427.chunk.js",
     "main.js.map": "/Miniflix/static/js/main.3de59427.chunk.js.map",
@@ -24,6 +11,5 @@
     "precache-manifest.4993888055039d7284ba686933bc2802.js": "/Miniflix/precache-manifest.4993888055039d7284ba686933bc2802.js",
     "service-worker.js": "/Miniflix/service-worker.js",
     "static/css/main.99568568.chunk.css.map": "/Miniflix/static/css/main.99568568.chunk.css.map"
->>>>>>> 1fcb19f2da42219e2559567d2bc65d2392ee7209
   }
 }
