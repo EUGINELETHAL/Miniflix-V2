@@ -2,6 +2,6 @@
 
 ## BOOK-A-MEAL REACT-REDUX
 
-Book-A-Meal is an application that allows customers to make food orders and helps the food vendor know what the customers want to eat.
+Book-A-Meal is a responsive React-Redux  application that allows customers to search make food orders .
 
 
